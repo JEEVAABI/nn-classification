@@ -29,7 +29,7 @@ Train the data and then predict using Tensorflow
 
 ## PROGRAM
 
-```
+```python
 import pandas as pd
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.preprocessing import LabelEncoder
